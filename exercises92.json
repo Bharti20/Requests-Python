@@ -1,0 +1,183 @@
+{
+    "data": [
+        {
+            "id": "2146",
+            "parent_exercise_id": null,
+            "name": "Navgurukul-Introduction",
+            "slug": "maths-hi-toh-hai__Navgurukul-Introduction",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/Navgurukul-Introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2155",
+            "parent_exercise_id": "2155",
+            "name": "pattern-questions",
+            "slug": "maths-hi-toh-hai__pattern-questions/pattern-questions",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/pattern-questions/pattern-questions.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2156",
+                    "parent_exercise_id": "2155",
+                    "name": "easy-questions",
+                    "slug": "maths-hi-toh-hai__pattern-questions/easy-questions",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/pattern-questions/easy-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2157",
+                    "parent_exercise_id": "2155",
+                    "name": "medium-questions",
+                    "slug": "maths-hi-toh-hai__pattern-questions/medium-questions",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/pattern-questions/medium-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2158",
+                    "parent_exercise_id": "2155",
+                    "name": "hard-questions",
+                    "slug": "maths-hi-toh-hai__pattern-questions/hard-questions",
+                    "sequence_num": 2003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/pattern-questions/hard-questions.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "2159",
+            "parent_exercise_id": "2159",
+            "name": "percentage-questions",
+            "slug": "maths-hi-toh-hai__percentage-questions/percentage-questions",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/percentage-questions/percentage-questions.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2160",
+                    "parent_exercise_id": "2159",
+                    "name": "easy-questions",
+                    "slug": "maths-hi-toh-hai__percentage-questions/easy-questions",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/percentage-questions/easy-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2161",
+                    "parent_exercise_id": "2159",
+                    "name": "medium-questions",
+                    "slug": "maths-hi-toh-hai__percentage-questions/medium-questions",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/percentage-questions/medium-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2162",
+                    "parent_exercise_id": "2159",
+                    "name": "hard-questions",
+                    "slug": "maths-hi-toh-hai__percentage-questions/hard-questions",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/percentage-questions/hard-questions.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "2151",
+            "parent_exercise_id": "2151",
+            "name": "unitary-method",
+            "slug": "maths-hi-toh-hai__unitary-method/unitary-method",
+            "sequence_num": 4000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/unitary-method/unitary-method.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2152",
+                    "parent_exercise_id": "2151",
+                    "name": "easy-questions",
+                    "slug": "maths-hi-toh-hai__unitary-method/easy-questions",
+                    "sequence_num": 4001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/unitary-method/easy-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2153",
+                    "parent_exercise_id": "2151",
+                    "name": "medium-questions",
+                    "slug": "maths-hi-toh-hai__unitary-method/medium-questions",
+                    "sequence_num": 4002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/unitary-method/medium-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2154",
+                    "parent_exercise_id": "2151",
+                    "name": "hard-questions",
+                    "slug": "maths-hi-toh-hai__unitary-method/hard-questions",
+                    "sequence_num": 4003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/unitary-method/hard-questions.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "2163",
+            "parent_exercise_id": "2163",
+            "name": "linear-equations",
+            "slug": "maths-hi-toh-hai__linear-equations/linear-equations",
+            "sequence_num": 5000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/linear-equations/linear-equations.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2164",
+                    "parent_exercise_id": "2163",
+                    "name": "easy-questions",
+                    "slug": "maths-hi-toh-hai__linear-equations/easy-questions",
+                    "sequence_num": 5001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/linear-equations/easy-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2165",
+                    "parent_exercise_id": "2163",
+                    "name": "medium-questions",
+                    "slug": "maths-hi-toh-hai__linear-equations/medium-questions",
+                    "sequence_num": 5002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/linear-equations/medium-questions.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2166",
+                    "parent_exercise_id": "2163",
+                    "name": "hard-questions",
+                    "slug": "maths-hi-toh-hai__linear-equations/hard-questions",
+                    "sequence_num": 5003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/maths-hi-toh-hai/linear-equations/hard-questions.md",
+                    "submission_type": null
+                }
+            ]
+        }
+    ]
+}

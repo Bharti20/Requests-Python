@@ -1,0 +1,260 @@
+{
+    "data": [
+        {
+            "id": "2169",
+            "parent_exercise_id": "2169",
+            "name": "If Statements",
+            "slug": "if-else__if-statement-flowcharts/if-statement-intro",
+            "sequence_num": 1000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-statement-intro.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2171",
+                    "parent_exercise_id": "2169",
+                    "name": "Flowcharts kaise banayein?",
+                    "slug": "if-else__if-statement-flowcharts/how-to-make-flowchart",
+                    "sequence_num": 1001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/how-to-make-flowchart.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2172",
+                    "parent_exercise_id": "2169",
+                    "name": "If Statement Question 1",
+                    "slug": "if-else__if-statement-flowcharts/if-flowchart-question1",
+                    "sequence_num": 1002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-flowchart-question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2174",
+                    "parent_exercise_id": "2169",
+                    "name": "Kaise shuru karein?",
+                    "slug": "if-else__if-statement-flowcharts/if-flowchart-question2",
+                    "sequence_num": 1003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-flowchart-question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2173",
+                    "parent_exercise_id": "2169",
+                    "name": "Kaise shuru karein?",
+                    "slug": "if-else__if-statement-flowcharts/if-flowchart-question3",
+                    "sequence_num": 1004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-flowchart-question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2176",
+                    "parent_exercise_id": "2169",
+                    "name": "Kaise shuru karein?",
+                    "slug": "if-else__if-statement-flowcharts/if-flowchart-question4",
+                    "sequence_num": 1005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-flowchart-question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2175",
+                    "parent_exercise_id": "2169",
+                    "name": "Kaise shuru karein?",
+                    "slug": "if-else__if-statement-flowcharts/if-flowchart-question5",
+                    "sequence_num": 1006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-flowcharts/if-flowchart-question5.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2170",
+            "parent_exercise_id": "2170",
+            "name": "Writing Code for If Statements",
+            "slug": "if-else__if-statement-with-code/if-statement-code-intro",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-statement-code-intro.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2182",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 1",
+                    "slug": "if-else__if-statement-with-code/if-code-question1",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2177",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 2",
+                    "slug": "if-else__if-statement-with-code/if-code-question2",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2183",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 3",
+                    "slug": "if-else__if-statement-with-code/if-code-question3",
+                    "sequence_num": 2003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2178",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 4",
+                    "slug": "if-else__if-statement-with-code/if-code-question4",
+                    "sequence_num": 2004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2179",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 5",
+                    "slug": "if-else__if-statement-with-code/if-code-question5",
+                    "sequence_num": 2005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2185",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 6",
+                    "slug": "if-else__if-statement-with-code/if-code-question6",
+                    "sequence_num": 2006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question6.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2180",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 7",
+                    "slug": "if-else__if-statement-with-code/if-code-question7",
+                    "sequence_num": 2007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question7.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2184",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 8",
+                    "slug": "if-else__if-statement-with-code/if-code-question8",
+                    "sequence_num": 2008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question8.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2181",
+                    "parent_exercise_id": "2170",
+                    "name": "Question 9",
+                    "slug": "if-else__if-statement-with-code/if-code-question9",
+                    "sequence_num": 2009,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/if-statement-with-code/if-code-question9.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2241",
+            "parent_exercise_id": "2241",
+            "name": "Debugging",
+            "slug": "if-else__debugging-part1/debugging-intro",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-intro.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2244",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 1",
+                    "slug": "if-else__debugging-part1/debugging-question1",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2242",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 2",
+                    "slug": "if-else__debugging-part1/debugging-question2",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2245",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 3    ",
+                    "slug": "if-else__debugging-part1/debugging-question3",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2243",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 4    ",
+                    "slug": "if-else__debugging-part1/debugging-question4",
+                    "sequence_num": 3004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2246",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 5",
+                    "slug": "if-else__debugging-part1/debugging-question5",
+                    "sequence_num": 3005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2248",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 6",
+                    "slug": "if-else__debugging-part1/debugging-question6",
+                    "sequence_num": 3006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question6.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2247",
+                    "parent_exercise_id": "2241",
+                    "name": "Question 7",
+                    "slug": "if-else__debugging-part1/debugging-question7",
+                    "sequence_num": 3007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question7.md",
+                    "submission_type": "url"
+                }
+            ]
+        }
+    ]
+}

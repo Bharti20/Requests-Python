@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "id": "2380",
+            "parent_exercise_id": null,
+            "name": "Json",
+            "slug": "json__introduction",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/json/introduction.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2383",
+            "parent_exercise_id": "2383",
+            "name": "Methods",
+            "slug": "json__methods/intro",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/json/methods/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2379",
+                    "parent_exercise_id": "2383",
+                    "name": "Dump and Dumps",
+                    "slug": "json__methods/dump",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/methods/dump.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2381",
+                    "parent_exercise_id": "2383",
+                    "name": "Load and Loads",
+                    "slug": "json__methods/load",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/methods/load.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2382",
+            "parent_exercise_id": "2382",
+            "name": "Questions",
+            "slug": "json__Questions/intro",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2384",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 1",
+                    "slug": "json__Questions/Question1",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2386",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 2",
+                    "slug": "json__Questions/Question2",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2385",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 3",
+                    "slug": "json__Questions/Question3",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2388",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 4",
+                    "slug": "json__Questions/Question4",
+                    "sequence_num": 3004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2387",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 5",
+                    "slug": "json__Questions/Question5",
+                    "sequence_num": 3005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2389",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 6",
+                    "slug": "json__Questions/Question6",
+                    "sequence_num": 3006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question6.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2390",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 7",
+                    "slug": "json__Questions/Question7",
+                    "sequence_num": 3007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question7.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2391",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 8",
+                    "slug": "json__Questions/Question8",
+                    "sequence_num": 3008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question8.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2392",
+                    "parent_exercise_id": "2382",
+                    "name": "Question 9",
+                    "slug": "json__Questions/Question9",
+                    "sequence_num": 3009,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question9.md",
+                    "submission_type": "url"
+                }
+            ]
+        }
+    ]
+}

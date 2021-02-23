@@ -9,7 +9,6 @@ url = "https://saral.navgurukul.org/api/courses"
 def online(fname, link):
     if path.exists(fname)==True:
         particular_course(fname)
-        print("pppppppppp")
     else:
         response = requests.get(link)
         data=response.text
@@ -34,8 +33,6 @@ def converting_to_py():
         with open("courses.json", "r") as convert_to_py:
             pyData=json.load(convert_to_py)
             return pyData 
-            
-
 def printCourses(data):
     id_list=[]
     i=0
@@ -43,6 +40,7 @@ def printCourses(data):
         id_list.append(data['availableCourses'][i]["id"])
         print(i, data['availableCourses'][i]['name'])
         i=i+1
+
 def ids_print():
     courses_ids_list=[]
     store = converting_to_py()
@@ -72,6 +70,7 @@ def parentChild_exersise():
             online(file_name, url2)
             print(save["availableCourses"][j]["name"])
             data_store =particular_course(file_name)
+            # print("uuuu", data_store)
             z=0
             length =data_store["data"]
             while z<len(length):
@@ -106,4 +105,32 @@ def parentChild_exersise():
 
             print(slug_py_data["content"])
         j=j+1
+    print()
+    print("******************** user choice ************************")
+    print()
+    chance=0
+    while chance<3:
+        user_choice=input("what you want to do 1. up, 2. next. 3. p:----")
+        if user_choice=="up": 
+            print()
+            save=converting_to_py()
+            printCourses(save)
+            parentChild_exersise()
+        elif user_choice=="next":
+            third_api=requests.get("https://merakilearn.org/api/courses/75/exercise/getBySlug?slug="+str(slug_list[y+1]))
+                    
+            slug_data = json.dumps(third_api.json())
+            slug_py_data = json.loads(slug_data)
+            print(slug_py_data["content"])
+
+
+        else:
+            third_api=requests.get("https://merakilearn.org/api/courses/75/exercise/getBySlug?slug="+str(slug_list[y-1]))
+                    
+            slug_data = json.dumps(third_api.json())
+            slug_py_data = json.loads(slug_data)
+            print(slug_py_data["content"])
+        chance=chance+1
+    print()
+    print("-----------------Thank you for visit!! ------------------------ ")
 parentChild_exersise()
