@@ -1,0 +1,281 @@
+{
+    "data": [
+        {
+            "id": "2102",
+            "parent_exercise_id": null,
+            "name": "Contents",
+            "slug": "english-701__Contents",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Contents.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2076",
+            "parent_exercise_id": null,
+            "name": "Email Writing - Lessons",
+            "slug": "english-701__lessons",
+            "sequence_num": 100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/lessons.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2078",
+            "parent_exercise_id": null,
+            "name": "Email Writing Exercise - Job Applications",
+            "slug": "english-701__jobapplications",
+            "sequence_num": 300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/jobapplications.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2081",
+                    "parent_exercise_id": "2077",
+                    "name": "Opening Phrases",
+                    "slug": "english-701__phrases/opening",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/opening.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2082",
+                    "parent_exercise_id": "2077",
+                    "name": "Useful Phrases for Main Body",
+                    "slug": "english-701__phrases/mainbody",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/mainbody.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2083",
+                    "parent_exercise_id": "2077",
+                    "name": "Closing Phrases",
+                    "slug": "english-701__phrases/closing",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/closing.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2080",
+                    "parent_exercise_id": "2077",
+                    "name": "Useful Phrases for Job Application",
+                    "slug": "english-701__phrases/job",
+                    "sequence_num": 3004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/job.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "2077",
+            "parent_exercise_id": "2077",
+            "name": "Email Writing - Important Phrases",
+            "slug": "english-701__phrases/phrases",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/phrases/phrases.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2101",
+            "parent_exercise_id": "2101",
+            "name": "Tech-Samvaad",
+            "slug": "english-701__Tech_Samvaad/Tech-Samvaad",
+            "sequence_num": 5000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Tech-Samvaad.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2079",
+                    "parent_exercise_id": "2101",
+                    "name": "Computer_networking",
+                    "slug": "english-701__Tech_Samvaad/computer_networking",
+                    "sequence_num": 5001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/computer_networking.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2084",
+                    "parent_exercise_id": "2101",
+                    "name": "cookies",
+                    "slug": "english-701__Tech_Samvaad/cookie",
+                    "sequence_num": 5002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/cookie.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2086",
+                    "parent_exercise_id": "2101",
+                    "name": "Data Mining",
+                    "slug": "english-701__Tech_Samvaad/data_mining",
+                    "sequence_num": 5003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/data_mining.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2087",
+                    "parent_exercise_id": "2101",
+                    "name": "Database",
+                    "slug": "english-701__Tech_Samvaad/database",
+                    "sequence_num": 5004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/database.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2085",
+                    "parent_exercise_id": "2101",
+                    "name": "Data Science",
+                    "slug": "english-701__Tech_Samvaad/Datascience",
+                    "sequence_num": 5005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Datascience.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2091",
+                    "parent_exercise_id": "2101",
+                    "name": "Domain Name Server yaani DNS",
+                    "slug": "english-701__Tech_Samvaad/dns",
+                    "sequence_num": 5006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/dns.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2092",
+                    "parent_exercise_id": "2101",
+                    "name": "Domain Names or URL",
+                    "slug": "english-701__Tech_Samvaad/domain",
+                    "sequence_num": 5007,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/domain.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2089",
+                    "parent_exercise_id": "2101",
+                    "name": "Encoding and Decoding",
+                    "slug": "english-701__Tech_Samvaad/Encoding",
+                    "sequence_num": 5008,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Encoding.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2090",
+                    "parent_exercise_id": "2101",
+                    "name": "Encryption",
+                    "slug": "english-701__Tech_Samvaad/encryption",
+                    "sequence_num": 5009,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/encryption.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2088",
+                    "parent_exercise_id": "2101",
+                    "name": "Firewall",
+                    "slug": "english-701__Tech_Samvaad/firewall",
+                    "sequence_num": 5010,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/firewall.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2096",
+                    "parent_exercise_id": "2101",
+                    "name": "Flowchart",
+                    "slug": "english-701__Tech_Samvaad/flowchart",
+                    "sequence_num": 5011,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/flowchart.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2097",
+                    "parent_exercise_id": "2101",
+                    "name": "Frontend",
+                    "slug": "english-701__Tech_Samvaad/Frontend",
+                    "sequence_num": 5012,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Frontend.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2093",
+                    "parent_exercise_id": "2101",
+                    "name": "What is Hacking",
+                    "slug": "english-701__Tech_Samvaad/hacking",
+                    "sequence_num": 5013,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/hacking.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2094",
+                    "parent_exercise_id": "2101",
+                    "name": "Hosting",
+                    "slug": "english-701__Tech_Samvaad/Hosting",
+                    "sequence_num": 5014,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/Hosting.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2095",
+                    "parent_exercise_id": "2101",
+                    "name": "What is IOT ",
+                    "slug": "english-701__Tech_Samvaad/internet_of_things",
+                    "sequence_num": 5015,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/internet_of_things.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2099",
+                    "parent_exercise_id": "2101",
+                    "name": "intranet",
+                    "slug": "english-701__Tech_Samvaad/intranet",
+                    "sequence_num": 5016,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/intranet.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2100",
+                    "parent_exercise_id": "2101",
+                    "name": "Json and Xml",
+                    "slug": "english-701__Tech_Samvaad/json_xml",
+                    "sequence_num": 5017,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/json_xml.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "2098",
+                    "parent_exercise_id": "2101",
+                    "name": "Keyword",
+                    "slug": "english-701__Tech_Samvaad/keyword",
+                    "sequence_num": 5018,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/english-701/Tech_Samvaad/keyword.md",
+                    "submission_type": null
+                }
+            ]
+        }
+    ]
+}
