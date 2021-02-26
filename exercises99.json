@@ -1,0 +1,56 @@
+{
+    "data": [
+        {
+            "id": "2323",
+            "parent_exercise_id": "2323",
+            "name": "Files in Python",
+            "slug": "files__files/files-intro",
+            "sequence_num": 1000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-intro.md",
+            "submission_type": "url",
+            "childExercises": [
+                {
+                    "id": "2324",
+                    "parent_exercise_id": "2323",
+                    "name": "Question 1\n",
+                    "slug": "files__files/files-question1",
+                    "sequence_num": 1001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2325",
+                    "parent_exercise_id": "2323",
+                    "name": "Question 2\n",
+                    "slug": "files__files/files-question2",
+                    "sequence_num": 1002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2326",
+                    "parent_exercise_id": "2323",
+                    "name": "Question 3\n",
+                    "slug": "files__files/files-question3",
+                    "sequence_num": 1003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2327",
+                    "parent_exercise_id": "2323",
+                    "name": "Question 4 ",
+                    "slug": "files__files/files-question4",
+                    "sequence_num": 1004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question4.md",
+                    "submission_type": "url"
+                }
+            ]
+        }
+    ]
+}
