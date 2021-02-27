@@ -3,7 +3,7 @@ import json
 import os.path
 from os import path
 print()
-print("------- Welcome to Saral page ----------")
+print("----------------------- Welcome to Saral page ------------------------------")
 print()
 url = "https://saral.navgurukul.org/api/courses"
 
@@ -19,23 +19,24 @@ def online(fname, link):
         with open(fname, "w") as jsonFile:
             jsonFile.write(dump_data)
         return dictionary
-def converting_to_py():
+def converting_to_py():  
     if path.exists("courses.json")==True:
         with open("courses.json", "r") as convert_to_py:
             pyData=json.load(convert_to_py)
-        return pyData
+            return pyData
     else:
         res = requests.get(url)
         dumpData =json.dumps(res.json(), indent=4 )
         with open("courses.json", "w") as creat_json_file:
             creat_json_file.write(dumpData)
-
+        
         with open("courses.json", "r") as convert_to_py:
             pyData=json.load(convert_to_py)
-        return pyData 
+            return pyData  
+
 def printCourses(data):
     print()
-    print("**************** Available Courses ****************")
+    print("*************************** Available Courses ******************************")
     print()
     id_list=[]
     i=0
@@ -65,7 +66,7 @@ def parentChild_exersise():
     child_ids=[]
     slug_list=[]
     print()
-    print("******************* parent exercise**************************")
+    print("********************** parent exercise**************************")
     print()
     j=0
     while j<len(save["availableCourses"]):
@@ -75,7 +76,6 @@ def parentChild_exersise():
             online(file_name, url2)
             print(save["availableCourses"][j]["name"])
             data_store =particular_course(file_name)
-            # print("uuuu", data_store)
             z=0
             length =data_store["data"]
             while z<len(length):
@@ -93,58 +93,60 @@ def parentChild_exersise():
                         print()
                         index=index+1
                 z=z+1
-            print("*************** Slug ***************")
+            print("************************ List of Slugs **************************************")
             print()
-            print(slug_list)
-            print(len(slug_list))
+            slug_index=0
+            while slug_index<len(slug_list):
+                print(slug_index+1, slug_list[slug_index])
+                slug_index=slug_index+1
             print()
             inputForSlug=int(input("select a slug:--"))
             y=0
             while y<len(slug_list):
-                if inputForSlug==y:
+                if inputForSlug==y+1:
                     third_api=requests.get("https://merakilearn.org/api/courses/"+str(store_id_list[j])+"/exercise/getBySlug?slug="+str(slug_list[y]))
                     break
                 y=y+1
             slug_data = json.dumps(third_api.json())
-
             slug_py_data = json.loads(slug_data)
-
+            print()
             print(slug_py_data["content"])
         j=j+1
     print()
-    print("******************** user choice ************************")
+    print("****************************user choice ***********************************")
     print()
     while True:
-        user_choice=input("what you want to do 1. up, 2. next. 3. p, 4. exit----")
+        user_choice=input("what do you want to do 1. up, 2. next. 3. pre, 4. exit----")
         if user_choice=="up": 
             print()
             save=converting_to_py()
             printCourses(save)
             parentChild_exersise()
         elif user_choice=="next":
-            if inputForSlug==len(slug_list)-1:
+            if inputForSlug==len(slug_list):
+                print()
                 print("there is no next slug ")
-                # break
+                print()
             else:
                 third_api=requests.get("https://merakilearn.org/api/courses/75/exercise/getBySlug?slug="+str(slug_list[y+1]))                 
                 slug_data = json.dumps(third_api.json())
                 slug_py_data = json.loads(slug_data)
                 print(slug_py_data["content"])
-                # break
-        elif user_choice=="p":
-            if inputForSlug==0:
+        elif user_choice=="pre":
+            if inputForSlug==1:
                 print()
                 print("there is no previous slug content")
                 print()
-                # break
             else:
                 third_api=requests.get("https://merakilearn.org/api/courses/75/exercise/getBySlug?slug="+str(slug_list[y-1]))                 
                 slug_data = json.dumps(third_api.json())
                 slug_py_data = json.loads(slug_data)
+                print()
                 print(slug_py_data["content"])
-                # break
+                print()
         elif user_choice=="exit":
             break
     print()
     print("-----------------Thank you for visit!! ------------------------ ")
+    print()
 parentChild_exersise()

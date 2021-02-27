@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": "2260",
+            "parent_exercise_id": "2260",
+            "name": "Variables",
+            "slug": "variables__variables/variables-intro",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-intro.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2262",
+            "parent_exercise_id": "2260",
+            "name": "Variables Exercise 1",
+            "slug": "variables__variables/variables-question",
+            "sequence_num": 1,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-question.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2263",
+            "parent_exercise_id": "2260",
+            "name": "Variable Naming Rules",
+            "slug": "variables__variables/variables-naming-rules",
+            "sequence_num": 2,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-rules.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2264",
+            "parent_exercise_id": "2260",
+            "name": "Variable ke names kaise rakhne chahiye",
+            "slug": "variables__variables/variables-naming-conventions",
+            "sequence_num": 3,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-conventions.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2265",
+            "parent_exercise_id": "2260",
+            "name": "Variable Naming Exercise 1",
+            "slug": "variables__variables/variables-naming-question1",
+            "sequence_num": 4,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-question1.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2266",
+            "parent_exercise_id": "2260",
+            "name": "Variable Naming Exercise 2",
+            "slug": "variables__variables/variables-naming-question2",
+            "sequence_num": 5,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-question2.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2269",
+            "parent_exercise_id": "2260",
+            "name": "Variable Naming Exercise 3",
+            "slug": "variables__variables/variables-naming-question3",
+            "sequence_num": 6,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-question3.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2267",
+            "parent_exercise_id": "2260",
+            "name": "Variable Naming Exercise 4",
+            "slug": "variables__variables/variables-naming-question4",
+            "sequence_num": 7,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/variables/variables/variables-naming-question4.md",
+            "submission_type": "url",
+            "childExercises": []
+        }
+    ]
+}

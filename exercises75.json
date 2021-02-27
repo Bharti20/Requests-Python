@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": "1860",
+            "parent_exercise_id": null,
+            "name": "introduction",
+            "slug": "requests__introduction",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1877",
+            "parent_exercise_id": null,
+            "name": "calling-an-api",
+            "slug": "requests__calling-an-api",
+            "sequence_num": 100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/calling-an-api.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1878",
+            "parent_exercise_id": null,
+            "name": "understanding-json",
+            "slug": "requests__understanding-json",
+            "sequence_num": 200,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/understanding-json.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1879",
+            "parent_exercise_id": null,
+            "name": "using-json",
+            "slug": "requests__using-json",
+            "sequence_num": 300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/using-json.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1880",
+            "parent_exercise_id": null,
+            "name": "thodi-si-programming",
+            "slug": "requests__thodi-si-programming",
+            "sequence_num": 400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/thodi-si-programming.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1881",
+            "parent_exercise_id": null,
+            "name": "api-again",
+            "slug": "requests__api-again",
+            "sequence_num": 500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/api-again.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1885",
+            "parent_exercise_id": null,
+            "name": "slug-aaya-hai",
+            "slug": "requests__slug-aaya-hai",
+            "sequence_num": 600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/slug-aaya-hai.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1886",
+            "parent_exercise_id": null,
+            "name": "whats-next",
+            "slug": "requests__whats-next",
+            "sequence_num": 700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/requests/whats-next.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
